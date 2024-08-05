@@ -13,8 +13,8 @@ Este es un proyecto de monitoreo de sitios web utilizando Electron y Puppeteer. 
 1. Clona el repositorio en tu máquina local:
 
     ```bash
-    git clone https://github.com/tu-usuario/tu-repositorio.git
-    cd tu-repositorio
+    git clone git@github.com:dylanlopez/asia-challenge.git
+    cd asia-challenge
     ```
 
 2. Instala las dependencias del proyecto:
